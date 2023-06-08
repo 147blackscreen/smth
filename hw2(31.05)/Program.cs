@@ -49,6 +49,3 @@ en1 = Functions.encryption(en1,1);
 Console.WriteLine(en1);
 en1 = Functions.decoding(en1,1);
 Console.WriteLine(en1);
-
-//test
-Console.WriteLine("test");
